@@ -1,1 +1,2 @@
 This is the first class
+Adding a new line to the first file
