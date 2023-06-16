@@ -1,3 +1,10 @@
+### Assignment 3 (06/16)
+**Java Installation**
+1. Please install Java on your machines
+2. Try to go over the Theory doc for Java **(src/resources/documents/JavaTheory_1.docx)**
+3. Try to run the first sample program on your machine
+4. Change the print statement to print your name.
+
 ### Assignment 2 (06/15)
 **GitHub Repository creation**
 **Steps**
