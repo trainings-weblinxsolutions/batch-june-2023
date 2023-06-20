@@ -1,3 +1,16 @@
+### Assignment 5 (06/20)
+**Arithmetic,BitWise ,Relational ,Boolean Logical ,Ternary Operators**
+1. Go through all the Operators shared in the doc.
+2. Take a look at the respective Java files and use the different operators.
+3. I'll be adding placeholders in the Java files for you to try out things
+4. Try to convert a number to binary and viceversa. It will help you in interviews and in general
+
+### Assignment 4 (06/19)
+**Arithmetic Operators**
+1. Go through the Arithmetic Operators shared in the doc
+2. Play around with the ++, -- , % operators as these are new
+
+
 ### Assignment 3 (06/16)
 **Java Installation**
 1. Please install Java on your machines
