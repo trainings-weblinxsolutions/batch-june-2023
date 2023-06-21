@@ -1,3 +1,10 @@
+### Assignment 6 (06/21)
+**Selection Statements - if, nested if, if else ladder, switch**
+1. Go through all the Selection Statements discussed in the class
+2. Write a program using switch statement to print day of the week
+3. Write the above program using if else ladder
+
+
 ### Assignment 5 (06/20)
 **Arithmetic,BitWise ,Relational ,Boolean Logical ,Ternary Operators**
 1. Go through all the Operators shared in the doc.
