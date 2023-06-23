@@ -1,3 +1,9 @@
+### Assignment 7 (06/22)
+**Iteration Statements - for, while, do while**
+1. Go through all the Iteration Statements discussed in the class
+2. Write a program to calculate factorial of a number using while loop.
+3. Write a program to print only the even numbers from 1 to 100.
+
 ### Assignment 6 (06/21)
 **Selection Statements - if, nested if, if else ladder, switch**
 1. Go through all the Selection Statements discussed in the class
