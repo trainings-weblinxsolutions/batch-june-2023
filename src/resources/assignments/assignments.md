@@ -1,3 +1,13 @@
+### Assignment 8 (06/23)
+**Arrays In Java, Try few programs**
+1. Go through the arrays lecture, notes and programs.
+2. Write a program to check if two arrays are equal or not. Eg 1: array1  = {2,3,4,5} , array2 = {2,3,4,5} , output should be true. Eg 2: array1  = {2,3,4,6} , array2 = {2,3,4,5} , output should be false.
+3. Write a program to find the sum of numbers at even and odd indices in array and then print out the which sum is the greatest.
+	* Eg: array = {4,5,2,8,3,6}
+	* Sum at even indices = 4+2+3 = 9 (4 is at index 0, 2 is at index 2, 3 is at index 4)
+	* Sum at odd  indices = 5+8+6 = 19 (5 is at index 1, 8 is at index 3, 6 is at index 5)
+	* O/p should be: Sum at odd indices is greatest.
+
 ### Assignment 7 (06/22)
 **Iteration Statements - for, while, do while**
 1. Go through all the Iteration Statements discussed in the class
