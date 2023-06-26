@@ -1,3 +1,11 @@
+### Assignment 9 (06/26)
+**Common Programs asked during interviews**
+1. Find out if a number is prime or not using Java.
+2. Print the Fibonaaci series using Java upto a given number.
+3. Swap two variables without using a temporary variable. (Hint : Use bitwise operators)
+
+
+
 ### Assignment 8 (06/23)
 **Arrays In Java, Try few programs**
 1. Go through the arrays lecture, notes and programs.
