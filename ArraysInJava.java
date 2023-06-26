@@ -32,6 +32,10 @@ public class ArraysInJava {
 	 marks[0]=9;
 	// marks[1]=5;
 	 marks[2]=7;	 	 
+	
+	System.out.println(marks[0]);
+//	System.out.println(marks[10]); this will give us ArrayIndexOutOfBoundsException
+	
 	 
 	 for(int i=0 ; i < marks.length ; i++){
 		System.out.println(marks[i]);		
