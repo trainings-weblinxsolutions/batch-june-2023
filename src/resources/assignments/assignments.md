@@ -1,3 +1,9 @@
+### Assignment 10 (06/27)
+**Common Programs asked during interviews**
+1. Print all print numbers between 2 to 100.
+2. Go through the basics of class/objects.
+
+
 ### Assignment 9 (06/26)
 **Common Programs asked during interviews**
 1. Find out if a number is prime or not using Java.
