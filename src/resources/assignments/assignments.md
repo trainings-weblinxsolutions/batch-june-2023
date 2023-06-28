@@ -1,3 +1,16 @@
+### Assignment 11 (06/28)
+**Class and Objects**
+1. Practice creating classes , multiple objects, methods (with no return and with return)
+2. Assignment on Classes and objects
+	1. Create a Student class with age and noOfFriends.
+	2. Create atleast 5 student objects.
+	3. Print sum of all noOfFriends.
+	4. In the class, create a method which returns noOfFriends.
+	
+
+
+
+
 ### Assignment 10 (06/27)
 **Common Programs asked during interviews**
 1. Print all print numbers between 2 to 100.
