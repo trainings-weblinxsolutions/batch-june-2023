@@ -1,3 +1,13 @@
+### Assignment 12 (06/29)
+**Methods with parameters, constructors and parameterized constructors**
+1. Practice creating Methods with parameters, constructors and parameterized constructors as discussed in the class.
+2. In the CalculatorDemo.java file, add methods - multiply, divide and subtract
+	1. The multiply method should take 3 int parameters and return an int
+	2. The divide method should take 2  double  parameters and return an int
+	3. The subtract method should take 2 int parameters and return an int
+	
+
+
 ### Assignment 11 (06/28)
 **Class and Objects**
 1. Practice creating classes , multiple objects, methods (with no return and with return)
