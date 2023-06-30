@@ -6,7 +6,7 @@ class OverloadingInJava {
    int marks2 = 15;
    
    
-   System.out.println(c1.add(marks1,marks2));
+   System.out.println(c1.add(10.0,marks2)); 
  
    
    
@@ -25,9 +25,17 @@ class OverloadingInJava {
 
 class Calculator {
 
+
+
 	//2 parameters - add method
 	int add(int num1,int num2){
 	System.out.println("Return type is int and params are also int");
+		return num1+num2;
+	}
+	
+	
+	double add(double num1,double num2){
+	System.out.println("Return type is double and params are also double");	
 		return num1+num2;
 	}
 	
