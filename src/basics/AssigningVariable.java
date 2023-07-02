@@ -9,10 +9,11 @@ class AssigningVariable {
   System.out.println("Value of a is : "+a);
   System.out.println("Value of b is : "+b); 
   
-  b = 20; 
+  b = 200; 
   
   System.out.println("Value of a is : "+a);
   System.out.println("Value of b is : "+b); 
+  
   
   }
   }
