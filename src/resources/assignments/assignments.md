@@ -1,3 +1,9 @@
+### Assignment 15 (07/05)
+**Final, static, class composition**
+1. Practice all the programs discussed in the class.
+2. To understand class composition use Supermarket as a base and create multiple classes like (Electronics, Grocery) and build a small program.
+
+
 ### Assignment 14 (07/03)
 **Introducing IDE, Assignment Program**
 1. Print all prime numbers between 1 to 200.
