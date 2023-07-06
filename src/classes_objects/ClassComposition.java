@@ -11,6 +11,9 @@ public static void main(String[] args) {
     hall.ceilingFan = new Fan("Ceiling Fan");
     hall.ceilingFan.speed = 500;     // LINE B1
     hall.ceilingFan.numberOfSpeeds = 5;
+    
+    System.out.println("Name of fan : "+hall.ceilingFan.name);
+    
 
     hall.tube = new Light("Hall tube light"); // LINE C
     hall.tube.color = "White";
