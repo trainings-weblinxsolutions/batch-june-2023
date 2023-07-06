@@ -1,3 +1,9 @@
+### Assignment 16 (07/06)
+**Class Object Related Programs, Inheritance Basics**
+1. Practice all the programs discussed in the class + concept of inheritance
+2. To understand inheritance, use the Vehicle class as a parent class and create a Car class, Bicycle class as child classes and create a few common attributes and methods to play around.
+
+
 ### Assignment 15 (07/05)
 **Final, static, class composition**
 1. Practice all the programs discussed in the class.
