@@ -21,6 +21,9 @@ public static void main(String[] args) {
 	
 	System.out.println("S1 marks : "+s1.marks + " section : "+s1.section);
 	
+	s1.setDetails(190, 'Z');
+	s1.marks=190;
+	System.out.println("S1 marks : "+s1.marks + " section : "+s1.section);
 	
 	
 	
@@ -29,7 +32,7 @@ public static void main(String[] args) {
 class Student{
 	
 	String name;
-    int marks;
+     int marks;
     char section;
 	
     public Student(String name) {
