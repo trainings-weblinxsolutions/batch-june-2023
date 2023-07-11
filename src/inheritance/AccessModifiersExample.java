@@ -1,5 +1,4 @@
 package inheritance;
-
 public class AccessModifiersExample {
 
 	public static void main(String[] args) {
@@ -8,11 +7,13 @@ public class AccessModifiersExample {
 		Bottle b = new Bottle();
 //		b.amountOfWater = 7;
 //		System.out.println("Amount in bottle : "+b.amountOfWater);
-//		b.amountOfWater = 100;
-//		System.out.println("Amount in bottle : "+b.amountOfWater);
+		
 		
 		b.setAmountOfWater(7);
 		System.out.println("Amount in bottle : "+b.getAmountOfWater());
+		
+		//b.amountOfWater = 100;
+		//System.out.println("Amount in bottle : "+b.amountOfWater);
 		b.setAmountOfWater(100);
 		System.out.println("Amount in bottle : "+b.getAmountOfWater());
 		
@@ -22,7 +23,7 @@ public class AccessModifiersExample {
 
 class Bottle{
 	
-	private int amountOfWater;
+	 protected int amountOfWater; // contain max 20L of water
 
 	public int getAmountOfWater() {
 		return amountOfWater;
@@ -42,3 +43,4 @@ class Bottle{
 	
 	
 }
+
