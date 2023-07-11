@@ -1,3 +1,15 @@
+### Assignment 19 (07/11)
+***Inheritance, Overriding, Super with methods, super with constructors*
+1. Practice all the programs discussed in the class + concept of overriding, super keywords
+2. Try exploring the Multi Level Constructors,Run time polymorphism present as part of the Java Theory_8.docx file.
+
+
+
+### Assignment 18 (07/10)
+***Inheritance, Overriding*
+1. Practice all the programs discussed in the class + concept of overriding
+2. Revise the questions and answers on the https://github.com/trainings-weblinxsolutions/batch-june-2023/blob/master/src/resources/interview_questions/QuestionsAndAnswers.docx
+
 ### Assignment 17 (07/07)
 **Inheritance Continued, Downcasting, Private access modifier**
 1. Practice all the programs discussed in the class + concept of inheritance, downcasting and Private access modifier
