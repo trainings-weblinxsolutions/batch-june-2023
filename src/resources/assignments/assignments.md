@@ -1,3 +1,9 @@
+### Assignment 20 (07/12)
+***Abstract classes, abstract methods and abstract rules*
+1. Practice all the programs discussed in the class + concept of Abstract classes, abstract methods
+2. Try exploring all the different rules with Abstract classes and abstract methods.
+
+
 ### Assignment 19 (07/11)
 ***Inheritance, Overriding, Super with methods, super with constructors*
 1. Practice all the programs discussed in the class + concept of overriding, super keywords
