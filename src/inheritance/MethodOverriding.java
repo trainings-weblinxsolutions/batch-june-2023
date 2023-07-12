@@ -33,6 +33,13 @@ class A
     {
         System.out.println("In class A");
     }
+    
+    static void m1() {
+    	System.out.println("From class A m1 method");
+    }
+    static {
+    	System.out.println("This is a static block in class A");
+    }
 }
 
 class B extends A
@@ -41,6 +48,14 @@ class B extends A
     {
     	super.print();
         System.out.println("In class B");
+        m1();
+    }
+    static void m1() {
+    	
+    	System.out.println("From class B m1 method");
+    }
+    static {
+    	System.out.println("This is a static block in class B");
     }
 }
 
