@@ -1,3 +1,16 @@
+### Assignment 21 (07/13)
+***Interfaces and Rules for interfaces*
+1. Practice all the programs discussed in the class + concept of Interfaces and Rules for interfaces
+2. Give a diagram representing classes, abstract classes, interfaces and depict the relation between them for the CricketPlayersUsingInterfaces Example.
+	a. Use a box for a class
+	b. Use a box marked with A for an abstract class
+	c. Use a oval shape for depicting interfaces
+	c. Use a bold line to show inheritance
+	d. Use a dotted line to show interfaces
+3. Practice and Run the CricketPlayersUsingInterfaces program.
+4. Try out the  Banking System  example.
+
+
 ### Assignment 20 (07/12)
 ***Abstract classes, abstract methods and abstract rules*
 1. Practice all the programs discussed in the class + concept of Abstract classes, abstract methods
