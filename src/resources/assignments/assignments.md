@@ -1,3 +1,14 @@
+### Assignment 22 (07/17)
+**Packages, Import statements and Access modifiers and how they behave in different cases**
+1. Practice all the programs discussed in the class + Packages, Import statements and Access modifiers
+2. Updating the Employee class to understand access modifiers
+	a. Create 4 methods, one of each type - public, private, protected and default.
+	b. Create sub-class in same package and try to access these methods.
+	c. Create non-sub-class in same package and try to access these methods.
+	d. Create sub-class in different package and try to access these methods.
+	e. Create non-sub-class in different package and try to access these methods.
+
+
 ### Assignment 21 (07/13)
 ***Interfaces and Rules for interfaces*
 1. Practice all the programs discussed in the class + concept of Interfaces and Rules for interfaces
