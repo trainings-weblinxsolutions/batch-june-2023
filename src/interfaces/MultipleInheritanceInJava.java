@@ -1,7 +1,11 @@
 package interfaces;
 
 public class MultipleInheritanceInJava {
-
+public static void main(String[] args) {
+	A obj = new A();
+	
+	A newObj =  new A();
+}
 }
 
 
