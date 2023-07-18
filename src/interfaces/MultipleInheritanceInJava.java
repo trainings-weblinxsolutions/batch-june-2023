@@ -1,10 +1,15 @@
 package interfaces;
 
 public class MultipleInheritanceInJava {
-public static void main(String[] args) {
+public static void main(String[] args) throws InterruptedException {
 	A obj = new A();
 	
 	A newObj =  new A();
+	obj.m1();
+	
+	Thread.sleep(100000);
+	
+	System.out.println("End");
 }
 }
 
