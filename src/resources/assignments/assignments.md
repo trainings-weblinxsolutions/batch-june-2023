@@ -1,3 +1,17 @@
+### Assignment 24 & 25 (07/19 & 07/20)
+**Exception Handling In Java**
+1. Take a look at all the exception handling programs discused in the class.
+2. Add 2 more exception classes to the TestRailwayExceptions program we discussed in the class.
+3. The exception classes could be:
+	a. PaymentGatewayNotAvailableException
+	b. InsufficientFundsException
+
+### Assignment 23 (07/18)
+**High Level Overview of an application**
+1. Look at the discussion we had in the class to see how an application is developed
+
+
+
 ### Assignment 22 (07/17)
 **Packages, Import statements and Access modifiers and how they behave in different cases**
 1. Practice all the programs discussed in the class + Packages, Import statements and Access modifiers
