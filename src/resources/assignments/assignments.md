@@ -1,3 +1,9 @@
+### Assignment 26 (07/21)
+**Checked vs Unchecked Exception**
+1. Take a look at all the exception handling programs, checked and unchecked exceptions discused in the class.
+2. Convert 2 of the exceptions from the Railway example to Checked and Unchecked Exceptions and see how it impacts the program
+
+
 ### Assignment 24 & 25 (07/19 & 07/20)
 **Exception Handling In Java**
 1. Take a look at all the exception handling programs discused in the class.
