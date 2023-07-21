@@ -13,6 +13,8 @@ public static void main(String[] args) {
 	
 	TicketBooker ticketBooker = new TicketBooker();
 	
+	RailwayException obj = new ServiceCancelledException(0, travel_date);
+	
 	
 		try {
 			ticketBooker.bookTicket(17031, travel_date, 5, 2);
@@ -85,23 +87,25 @@ class SeatsNotAvailableException extends RailwayException
 
 class TicketBooker
 {
-    public void bookTicket(int trainNo, String date, int adults, int children) throws ServiceCancelledException
+    public void bookTicket(int trainNumber, String date, int adults, int children) throws ServiceCancelledException
 , SeatsNotAvailableException
    
     {
 
-        if(isServiceCancelled(trainNo, date))
+        if(isServiceCancelled(trainNumber, date))
         {
-            throw new ServiceCancelledException(trainNo, date); // LINE B
+        	ServiceCancelledException obj = new ServiceCancelledException(trainNumber, date);
+            throw new ServiceCancelledException(trainNumber, date); // LINE B
+        	//throw obj;
         }
 
-        if(areSeatsAvailable(trainNo, date, adults, children))
+        if(areSeatsAvailable(trainNumber, date, adults, children))
         {
-            confirmBooking(trainNo, date, adults, children);
+            confirmBooking(trainNumber, date, adults, children);
         }
         else
         {
-            throw new SeatsNotAvailableException(trainNo, date); // LINE C
+            throw new SeatsNotAvailableException(trainNumber, date); // LINE C
         }
     }
 
