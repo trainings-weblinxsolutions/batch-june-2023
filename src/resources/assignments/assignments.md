@@ -1,3 +1,23 @@
+### Assignment 27 (07/24)
+**Strings in Java**
+1. Create a simple program to store the details of a users aadhar details
+	a. Name Attributes  : first name, middle name, last name
+	b. Age
+	c. Gender
+	d. Date of birth
+	e. Address : Address line 1 ,Address line 2, Address line 3, Landmark
+	f. City
+	g. Pincode
+	h. Country
+	i. Aadhar Name
+	j. Phone Number
+2. Print out the details in a formatted manner:
+	a. The name of the user is : <full_name_> and age is : <age>
+	b. The user's date of birth according to Aadhar is : <date_of_birth> and gender is : <gender>
+	b. The address of the user is: 	
+	c. The phone number of the user is:
+
+
 ### Assignment 26 (07/21)
 **Checked vs Unchecked Exception**
 1. Take a look at all the exception handling programs, checked and unchecked exceptions discused in the class.
