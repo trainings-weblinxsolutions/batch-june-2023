@@ -1,3 +1,11 @@
+### Assignment 28 (07/25)
+**String methods in Java**
+1. Understand getChars() method of the String class and implement a small program on it.
+2. Understand regionMatches() method of the String class and implement a small program on it.
+3. Practice all the methods discussed in the class, try out sample programs
+4. Understand the difference between string comparisions using == and equals method
+
+
 ### Assignment 27 (07/24)
 **Strings in Java**
 1. Create a simple program to store the details of a users aadhar details
