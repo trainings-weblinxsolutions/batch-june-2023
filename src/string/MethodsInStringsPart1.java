@@ -1,6 +1,6 @@
 package string;
 
-public class MethodsInStrings1 {
+public class MethodsInStringsPart1 {
 public static void main(String[] args) {
 	//length
 	//charAt(parameter)
@@ -20,6 +20,13 @@ public static void main(String[] args) {
 		System.out.println(name.charAt(i));
 		
 	}
+	
+	
+	//concat
+	
+	String name1 = "Rohit";
+	name1 = name1.concat(" Shetty");
+	System.out.println("Name using concat : "+name1);
 			
 }
 }
