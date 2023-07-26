@@ -1,3 +1,23 @@
+### Assignment 29 (07/26)
+**String Assignment Programs**
+1. Length of each word in the String Array
+	a. Input : String a[]= {"hello students","good morning"};
+	b. Output
+		hello - 5
+		students - 8
+		good - 4
+		morning - 7
+2. Print names starting with "Ro"
+	a. Input: String names[] = {"Abhishek","Roopa","Rohit","Rishi","Rohan","Vinod","Ronit","Naresh"}
+	b. Output:
+3. Print names which contain "sh"
+	a. Input: String names[] = {"Abhishek","Roopa","Rohit","Rishi","Rohan","Vinod","Ronit","Naresh"}
+	b. Output:	
+4. Write a Java program to reverse a String, do not use any direct methods
+	a. Input : name
+	b. Output : eman	
+
+
 ### Assignment 28 (07/25)
 **String methods in Java**
 1. Understand getChars() method of the String class and implement a small program on it.
