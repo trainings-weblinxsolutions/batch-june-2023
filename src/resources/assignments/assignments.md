@@ -1,3 +1,11 @@
+### Assignment 30 (07/27)
+**String Buffer, String Builder, Math class**
+1. Try out all the programs of Assignment 29 using StringBuffer.
+2. From numbers 1 to 100, :
+	a. Use the Math class to get square root of all numbers
+	b. Once you have the result, round it up to an integer and find factorial of that number.
+	c. Print the time taken for your program.
+
 ### Assignment 29 (07/26)
 **String Assignment Programs**
 1. Length of each word in the String Array
