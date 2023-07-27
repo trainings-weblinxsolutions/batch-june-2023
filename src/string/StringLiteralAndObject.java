@@ -20,5 +20,6 @@ public static void main(String[] args) {
 	
 	String area2 = new String("Hyderabad"); //Heap
 	
+	
 }
 }
