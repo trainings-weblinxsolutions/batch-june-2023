@@ -19,7 +19,7 @@
 
 
 ### Assignment 31 (07/28)
-***Utility Classes*
+**Utility Classes**
 1. Practice all the programs in the class.
 2. Check how to create a Date, Calendar object
 3. Play around with the Scanner class and take inputs from user and perform operations like additions and subtraction
