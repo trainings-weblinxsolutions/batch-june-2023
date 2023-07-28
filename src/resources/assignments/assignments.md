@@ -1,3 +1,29 @@
+### Assignment 32 (07/28)
+**ATM Program Using User Input**
+1. Create an ATM Program which does the following
+	a. Sets an initial balance for a user, say 1000 (balance = 1000)
+2. Next, it keeps on asking the user to select one of the following options:
+	1. Press 1 to check balance
+	2. Press 2 to deposit money
+	3. Press 3 to withdraw money
+	4. Press 4 to end the transaction
+3. Keep printing the above options, till the user input option - 4
+4. While depositing, make sure to handle negative values and print out updated balance after each deposit.
+5. While withdrawing, make sure the balance doesn't go to negative and print out updated balance after each deposit. You could also add a check to maintain minimum balance.
+6. Concepts to use for this program:
+	1. Scanner
+	2. while loop
+	3. case statement
+	4. if ,else blocks
+	5. These are just some hints, you may use any concepts to accomplish the assignment 
+
+
+### Assignment 31 (07/28)
+***Utility Classes*
+1. Practice all the programs in the class.
+2. Check how to create a Date, Calendar object
+3. Play around with the Scanner class and take inputs from user and perform operations like additions and subtraction
+
 ### Assignment 30 (07/27)
 **String Buffer, String Builder, Math class**
 1. Try out all the programs of Assignment 29 using StringBuffer.
