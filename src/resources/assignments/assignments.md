@@ -1,3 +1,14 @@
+### Assignment 33 (07/31)
+**Programs on Strings**
+1. Find total number of letters in a String
+	Eg: Input: "This is a program" O/p: 14
+2. Check if String is a Pallindrome String, do not consider the case of the letters
+	Eg: String s1="Madam" O/p: true (since the reverse of Madam is also madaM and we are asked not to consider case)
+3. Count occurrence of a character in a String (do not consider casing)
+	1. Take a string from the user as an input
+	2. Take a char as input from the user
+	3. Check how many times this character is present in the string. Try out with atleast 2 ways.
+
 ### Assignment 32 (07/28)
 **ATM Program Using User Input**
 1. Create an ATM Program which does the following
