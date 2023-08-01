@@ -1,3 +1,14 @@
+### Assignment 34 (08/01)
+**ATM Program Continued, Collection Framework**
+1. Add program exception handling in the ATM program
+	1. Users should not be able to enter a negative amount.
+	2. Users should not be able to enter any character.
+	3. Users should maintain minimum balance of Rs.200
+	4. Try to separate out the BankAccount functionality from the main class
+2. Take a look at the Collection Hierarchy Diagram and try to understand the different classes and interfaces	
+3. Try to look through all methods of the Collection interface
+
+
 ### Assignment 33 (07/31)
 **Programs on Strings**
 1. Find total number of letters in a String
