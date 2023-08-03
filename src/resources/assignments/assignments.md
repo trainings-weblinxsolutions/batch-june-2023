@@ -1,3 +1,12 @@
+### Assignment 35 (08/03)
+**Generics, ArrayList**
+1. Create a class using generics that will accept any type and create objects using all possible classes:
+	a. Integer
+	b. String
+	c. Employee
+2. Create an simple ArrayList of integers with elements from 1 to 50 and print the array list
+
+
 ### Assignment 34 (08/01)
 **ATM Program Continued, Collection Framework**
 1. Add program exception handling in the ATM program
