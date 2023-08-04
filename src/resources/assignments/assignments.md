@@ -1,3 +1,19 @@
+### Assignment 36 (08/04)
+**ArrayList in Java, Different Methods of ArrayList**
+1. Try to do all the programs discussed in the class using different methods.
+2. Create a class Student with  attributes - name,age,id,marks
+	a. Create multiple objects of the Student class - atleast 5
+	b. Create an Student ArrayList and add all the student objects created to this array list
+	c. Iterate over the ArrayList and print the name of the student with highest marks.
+	d. Iterate over the ArrayList and print the name of the student with highest age.
+3. Sort an array of numbers in Java using below algorithms/techniques
+	1. Bubble Sort
+	2. Merge Sort 
+	3. Insertion Sort
+	4. Quick Sort
+	5. Selection Sort
+
+
 ### Assignment 35 (08/03)
 **Generics, ArrayList**
 1. Create a class using generics that will accept any type and create objects using all possible classes:
