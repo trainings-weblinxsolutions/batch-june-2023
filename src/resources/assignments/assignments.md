@@ -1,3 +1,11 @@
+### Assignment 37 (08/05)
+**ArrayList and LinkedList**
+1. Try to do the Assignment 36, question#2 using LinkedList instead of ArrayList and note the changes needed.
+2. Run and practice the LinkedList program in the doc.
+3. What is the difference between Java Array vs ArrayList?
+4. What is the difference between ArrayList vs LinkedList?
+
+
 ### Assignment 36 (08/04)
 **ArrayList in Java, Different Methods of ArrayList**
 1. Try to do all the programs discussed in the class using different methods.
