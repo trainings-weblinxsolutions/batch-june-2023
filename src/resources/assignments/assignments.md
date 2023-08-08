@@ -1,4 +1,9 @@
-### Assignment 37 (08/05)
+### Assignment 38 (08/08)
+**Stack,HashSet,LinkedHashSet, Debugging**
+1. Take any 2 programs that we did so far and try to debug the program.(Pick one which has a Scanner class atleast)
+2. Revisit the Stack,HashSet,LinkedHashSet programs and concepts.
+
+### Assignment 37 (08/07)
 **ArrayList and LinkedList**
 1. Try to do the Assignment 36, question#2 using LinkedList instead of ArrayList and note the changes needed.
 2. Run and practice the LinkedList program in the doc.
