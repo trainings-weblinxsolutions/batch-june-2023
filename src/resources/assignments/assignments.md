@@ -1,3 +1,12 @@
+### Assignment 39 (08/09)
+**TreeSet, Iterator and ListIterator, Map**
+1. In the TreeSetComparableExample class, how can we sort on multiple fields?
+	a. Take a look at the class TreeSetComparableExample
+	b. If we run it without changes, we are dropping few Employees
+	c. What needs to be changed so that all employees are added to the TreeSet.
+2. Try out the Iterator and ListIterator programs in the Java Theory_18 doc
+3. Understand the Map hierarchy
+
 ### Assignment 38 (08/08)
 **Stack,HashSet,LinkedHashSet, Debugging**
 1. Take any 2 programs that we did so far and try to debug the program.(Pick one which has a Scanner class atleast)
