@@ -1,3 +1,21 @@
+### Assignment 40 (08/10)
+**Hashing,Maps, HashMap & other classes**
+1. Write a Java Program to 
+	1. Count number of words in given sentence
+	2. Occurrence of each word
+	3. Occurrence of each character
+		I/p: String str = "This this is is done by Java Java"; O/p 2: {Java=2, by=1, this=1, This=1, is=2, done=1} O/p 3: {i=4, a=4 ,...}
+2. Write a program to see how many Employees have same day as joining day. Create a map with day and employee names and display it at the end.
+	1. Input:
+		a. "Praveen", "20/06/2023"
+		b. "Pooja", "21/06/2023"
+		c. "Manish", "21/06/2023"
+		d. "Urja", "20/06/2023"
+	2. Output:
+		 {"20/06/2023"=Praveen,Urja }
+		 {"21/06/2023"=Pooja,Manish}	
+
+
 ### Assignment 39 (08/09)
 **TreeSet, Iterator and ListIterator, Map**
 1. In the TreeSetComparableExample class, how can we sort on multiple fields?
