@@ -1,3 +1,41 @@
+### Assignment 41 (08/11)
+**Multiple topics - Strings, Lists, Maps, Operators, Classes and Objects**
+1. Write a Java Program to find if two strings are Anagrams.
+	1. Two strings are considered Anagrams if they are formed using same characters. Casing/Spaces can be ignored
+	2. Eg 1: Input : String first = "I am Lord Voldemort" and String second="Tom Marvolo Riddle"   ,Output : true
+	3. Eg 2: Input : String first = "I am Lord Voldemort" and String second="Tom Marvolo Riddlee"   ,Output : false
+2. Compute income tax amount for Employees.
+	1. Create an Employee class	with attributes name, empId, age and salary
+	2. Ask the user how many employees they want to create and read that input (Hint: Use Scanner )
+	3. Depending on the input, ask the user to enter name , empId, age and salary for that employee and create objects accordingly.
+	4. Once all the details are entered, calculate income tax for each employee and print the name,empId,age salary and income tax value.
+	5. Income tax should be calculated as (for < 60 years of age):
+		1. Upto Rs. 2,50,000 			 - Nil
+		2. Rs. 2,50,001 to Rs. 5,00,000  - 5% above Rs. 2,50,000
+		3. Rs. 5,00,001 to Rs. 10,00,000 - Rs. 12,500 + 20% above Rs. 5,00,000
+		4. Above Rs. 10,00,000			 - Rs. 1,12,500 + 30% above Rs. 10,00,000
+	6. Income tax should be calculated as (for > 60 years of age):
+		1. Upto Rs. 3,00,000 			 - Nil
+		2. Rs. 3,00,001 to Rs. 5,00,000  - 5% above Rs. 3,00,000
+		3. Rs. 5,00,001 to Rs. 10,00,000 - Rs. 10,000 + 20% above Rs. 5,00,000
+		4. Above Rs. 10,00,000			 - Rs. 1,10,500 + 30% above Rs. 10,00,000
+	7. Test your program thoroughly with all types of inputs and make sure it gives expected output.
+3. Write a program to check if a String is panagram or not
+	1. A string is a panagram if it contains all 26 characters
+	2. Eg 1: Input: The five boxing wizards jump quickly , Output: true. Explanation: It contains all 26 alphabets (a to z). Casing can be ignored.
+	3. Eg 2: Input: This is a normal string,	 Output: false. It does not contain all alphabets.
+4. Create a Student class with the attributes - name, age, city, department
+	1. Ask the user how many Students they want to create and read that input (Hint: Use Scanner )	
+	2. Depending on the input, ask the user to enter name , age, city, department for that student and create objects accordingly.
+	3. Once all the data is entered, print the data sorted by name, department and age.
+	4. Give a count of number of students in each department. (Eg: IT - 3, CSE - 2 etc)
+	5. Give names of students department wise (Eg: IT - Praveen,Pooja , CSE - Priyanka, Manish)
+	6. Test your program thoroughly with all types of inputs and make sure it gives expected output.
+5. Write a Java program to find sum of digits of a number. 
+	1. Eg 1: Input: 276  Output: 15 (2+7+6 = 15)
+	2. Eg 2: Input: 94701  Output: 21 (9+4+7+0+1 = 21)	
+	
+
 ### Assignment 40 (08/10)
 **Hashing,Maps, HashMap & other classes**
 1. Write a Java Program to 
