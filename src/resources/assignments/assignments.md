@@ -1,3 +1,11 @@
+### Assignment 42 (08/16)
+**Readers,Writers and Serialization**
+1. Find out if numbers are prime or not
+	1. Read numbers from a file.
+	2. Write numbers to a file which are prime.
+2. With any object class (Student/Employee) create atleast 5 attributes and serialize the data and read the data from a different class.	
+
+
 ### Assignment 41 (08/11)
 **Multiple topics - Strings, Lists, Maps, Operators, Classes and Objects**
 1. Write a Java Program to find if two strings are Anagrams.
