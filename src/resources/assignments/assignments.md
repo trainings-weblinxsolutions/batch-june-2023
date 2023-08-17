@@ -1,3 +1,8 @@
+### Assignment 43 (08/17)
+**MultiThreading**
+1. Basic theory on Multithreading - What are threads, multithreading and methods of Threads.
+2. Practice the 2 programs discussed in the class.
+
 ### Assignment 42 (08/16)
 **Readers,Writers and Serialization**
 1. Find out if numbers are prime or not
