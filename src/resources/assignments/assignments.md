@@ -1,3 +1,11 @@
+### Assignment 44 (08/18)
+**MultiThreading Continued, Install MySQL**
+1. Install mysql database on your machine. 
+	1. Windows - https://www.javatpoint.com/how-to-install-mysql
+	2. Mac     - https://flaviocopes.com/mysql-how-to-install/
+2. Try out the BankingAccount multithreading program.
+3. Try out the Executor Service and other multithreading programs.
+
 ### Assignment 43 (08/17)
 **MultiThreading**
 1. Basic theory on Multithreading - What are threads, multithreading and methods of Threads.
