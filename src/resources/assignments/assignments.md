@@ -1,3 +1,8 @@
+### Assignment 45 (08/18)
+**Recap - Interview Questions and Programs**
+1. Try to do all the interview programming questions.
+2. Try to complete the assignments if not done.
+
 ### Assignment 44 (08/18)
 **MultiThreading Continued, Install MySQL**
 1. Install mysql database on your machine. 
