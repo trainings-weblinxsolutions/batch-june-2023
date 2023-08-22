@@ -1,4 +1,9 @@
-### Assignment 45 (08/18)
+### Assignment 46 (08/22)
+**Lambda Expressions**
+1. Revisit the Lambda Expressions theory part
+2. Revise all the programs for Lambda Expressions with no param, 1 param and multiple parameters.
+
+### Assignment 45 (08/21)
 **Recap - Interview Questions and Programs**
 1. Try to do all the interview programming questions.
 2. Try to complete the assignments if not done.
