@@ -1,15 +1,15 @@
 package lambda;
 
-
+@FunctionalInterface
 interface Calculator{  
-    int add(int a,int b);  
+    int add(int a,int b);
+    
 }  
 
 
 public class LambdaExp2ParamsAndReturn {
 public static void main(String[] args) {
 	Calculator ad1 = (a,b) -> (a+b); 
-	
 	
 	 
 	
