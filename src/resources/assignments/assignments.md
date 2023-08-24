@@ -1,3 +1,8 @@
+### Assignment 47 (08/24)
+**Lambda Expressions**
+1. Revisit the Lambda Expressions theory part
+2. In PredicateTesting, complete the Or Predicate and negate programs
+
 ### Assignment 46 (08/22)
 **Lambda Expressions**
 1. Revisit the Lambda Expressions theory part
