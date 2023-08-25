@@ -1,3 +1,16 @@
+### Assignment 48 (08/25)
+**Stream**
+1. See what all values can you generate from a stream using the generate.
+2. Go through all the programs of the Streams that we discussed.
+3. Given an ArrayList of String, create an ArrayList to print names starting with "Ro". Use the concepts of Stream to get the output.
+4. Execute the below programs using Streams:
+	a. Create an array list from numbers 1 to 50.
+	b. Filter out numbers divisible by 3
+	c. Now multiply these numbers by 4.
+	d. Of the result from #c, filter out numbers divisible by 7 and create a List
+
+
+
 ### Assignment 47 (08/24)
 **Lambda Expressions**
 1. Revisit the Lambda Expressions theory part
