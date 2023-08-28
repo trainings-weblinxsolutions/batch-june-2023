@@ -1,3 +1,19 @@
+### Assignment 49 (08/28)
+**Databases**
+1. Install MySql on your machine.
+2. Create a database with your own name.
+3. Create a employee table with :
+	1. employee_id
+	2. employee_first_name
+	3. employee_last_name
+	4. employee_city
+	5. employee_postal_code
+	6. employee_email_id
+	7. employee_phone_number
+4. Insert into this table atleast 10 records.
+5. Update the city for all employees where the postal_code is 41302
+6. Try out all the new SQL commands that we learnt (creating database, tables, inserting data, deleting data, truncating data, selecting data and updating data).
+
 ### Assignment 48 (08/25)
 **Stream**
 1. See what all values can you generate from a stream using the generate.
