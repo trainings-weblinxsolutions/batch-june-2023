@@ -1,3 +1,15 @@
+### Assignment 50 (08/29)
+**MYSQL Questions**
+1. Create a dept table with columns (dept_id , dept_name, dept_location)
+	1. Mark the dept_id as primary key
+2. Create an employee table with columns (emp_id , emp_name, emp_phone_number, dept_id)
+	1. Mark the emp_id as primary key
+	2. Mark the dept_id as foreign key
+3. Insert some records in both the table and try out the following:
+	1. Give count of employee having same names
+	2. Try basic joins (cross join, inner join , left and right outer joins)
+
+
 ### Assignment 49 (08/28)
 **Databases**
 1. Install MySql on your machine.
