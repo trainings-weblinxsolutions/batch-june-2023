@@ -1,3 +1,15 @@
+### Assignment 52(09/08)
+**Basics of Maven**
+1. Create a simple maven project and try to add any dependencies.
+2. Add the junit dependency and create the Calculator class with add, divide, subtract and multiply methods and add tests around these.
+
+
+### Assignment 51(08/31)
+**MYSQL Questions**
+1. https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
+2. https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
+
+
 ### Assignment 50 (08/29)
 **MYSQL Questions**
 1. Create a dept table with columns (dept_id , dept_name, dept_location)
