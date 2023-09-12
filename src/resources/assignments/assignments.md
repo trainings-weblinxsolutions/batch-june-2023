@@ -1,3 +1,13 @@
+### Assignment 54(09/12)
+**Loose Coupling, Tight Coupling, Basics of Spring**
+1. Go over the concepts of Loose Coupling, Tight Coupling
+2. Understand the Inversion of Control and Dependency Injection concepts.
+
+### Assignment 53(09/11)
+**Configuration files**
+1. Create a simple maven project and try to add any dependencies.
+2. Create a configuration file and some properties like username and password to it. Try to load it in your application and test if they are loading correctly
+
 ### Assignment 52(09/08)
 **Basics of Maven**
 1. Create a simple maven project and try to add any dependencies.
