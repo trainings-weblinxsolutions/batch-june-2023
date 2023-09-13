@@ -1,3 +1,9 @@
+### Assignment 55(09/13)
+**Simple spring project**
+1. Create a simple spring project and add dependencies to it.
+2. Create 2 POJO and try to create beans by adding them to an xml file.
+
+
 ### Assignment 54(09/12)
 **Loose Coupling, Tight Coupling, Basics of Spring**
 1. Go over the concepts of Loose Coupling, Tight Coupling
