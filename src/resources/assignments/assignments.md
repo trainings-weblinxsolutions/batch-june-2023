@@ -1,3 +1,9 @@
+### Assignment 55(09/14)
+**Beans Scopes, Simple Spring MVC Project**
+1. Create multiple beans of the Student or Employee class created as part of Assignment 55
+2. Now set the scope of one of the bean to singleton and other to prototype and check what happens when you create multiple instances.
+3. try to go over the Spring MVC project we discussed in class.
+
 ### Assignment 55(09/13)
 **Simple spring project**
 1. Create a simple spring project and add dependencies to it.
