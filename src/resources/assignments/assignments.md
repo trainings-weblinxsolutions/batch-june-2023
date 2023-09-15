@@ -1,4 +1,11 @@
-### Assignment 55(09/14)
+### Assignment 57(09/15)
+**Spring Boot**
+1. Create a spring boot project using Spring Initializr - https://start.spring.io/
+2. Try to add some basic print statements in the Application.java file and run it.
+3. Look at the dependencies it downloaded automatically
+4. Try to explore more by downloading combinations of different spring boot project along with additional dependencies.
+
+### Assignment 56(09/14)
 **Beans Scopes, Simple Spring MVC Project**
 1. Create multiple beans of the Student or Employee class created as part of Assignment 55
 2. Now set the scope of one of the bean to singleton and other to prototype and check what happens when you create multiple instances.
