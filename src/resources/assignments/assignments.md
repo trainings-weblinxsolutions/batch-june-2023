@@ -1,3 +1,9 @@
+### Assignment 58(09/18)
+**Spring Boot REST API's without connecting to DB**
+1. Practice the application we discussed in class.
+2. Add a few more products
+3. Create a GET mapping which will read all the products and give the product with the maximum price. Max price is defined as - productQuantity * price
+
 ### Assignment 57(09/15)
 **Spring Boot**
 1. Create a spring boot project using Spring Initializr - https://start.spring.io/
