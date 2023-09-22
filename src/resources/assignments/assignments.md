@@ -1,8 +1,21 @@
+### Assignment 60(09/22)
+**Overview of Spring Batch/Microservices/AWS**
+1. Go through the simple spring batch application.
+2. Understand the end to end flow of an application.
+
+
+### Assignment 59(09/21)
+**Spring Boot - GET, POST, PUT, DELETE**
+1. Create a spring boot application through which we can maintain employees in an organization.
+2. Add REST endpoints to add , view all, update and delete employees.
+3. Try to add multiple end points (like to check which employee is having highest salary etc)
+
 ### Assignment 58(09/18)
 **Spring Boot REST API's without connecting to DB**
 1. Practice the application we discussed in class.
 2. Add a few more products
 3. Create a GET mapping which will read all the products and give the product with the maximum price. Max price is defined as - productQuantity * price
+
 
 ### Assignment 57(09/15)
 **Spring Boot**
